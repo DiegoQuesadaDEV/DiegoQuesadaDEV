@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego!</h1>
 <h3 align="center">A passionate Full-Stack Developer from Spain</h3>
 
-- 🔭 I’m currently working on **enterprise apps**
+- 🔭 Currently working on **enterprise apps**
 
 - 🌱 I’m learning every day!
 
-- 🤝 I’m looking for help with **open source projects**
+- 🤝 Looking for help with **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stars/DiegoQuesadaDEV/lists/rocket-portfolio](https://github.com/stars/DiegoQuesadaDEV/lists/rocket-portfolio)
 
